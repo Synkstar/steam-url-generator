@@ -1,0 +1,4 @@
+itertools
+discord_webhook
+steam
+requests
